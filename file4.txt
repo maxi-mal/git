@@ -1,1 +1,1 @@
-This is our first change 
+This is our first change. Second line added.
